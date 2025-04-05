@@ -1,0 +1,49 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Розповідь про космос</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4LlmCUYVH7pPSbCWe9wl3f4fwNB7Gw8KZiQ&s" alt="Earth Icon" class="logo">
+        <nav>
+            <button>Головна</button>
+            <button>Про нас</button>
+            <button>Розповідь</button>
+        </nav>
+    </header>
+    <main class="main-content">
+
+    <section class="section-sun">
+        <h2>Марс</h2>
+        <div class="section-row">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/OSIRIS_Mars_true_color.jpg/307px-OSIRIS_Mars_true_color.jpg" alt="Сонце">
+            <p>
+                <strong>Сонце</strong> — центральне і наймасивніше тіло Сонячної системи, типова зоря головної послідовності спектрального класу G2.
+                Його маса приблизно в <strong>333 000</strong> раз більша за масу Землі та у <strong>750</strong> разів перевищує масу всіх інших планет разом узятих.
+                Маса Сонця становить <strong>99,866%</strong> від загальної маси всієї Сонячної системи.
+            </p>
+        </div>
+    </section>
+
+    <section class="section-neptune">
+        <h2>Юпітер</h2>
+        <div class="section-row">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jupiter%2C_image_taken_by_NASA%27s_Hubble_Space_Telescope%2C_June_2019_-_Edited.jpg/300px-Jupiter%2C_image_taken_by_NASA%27s_Hubble_Space_Telescope%2C_June_2019_-_Edited.jpg" alt="Нептун">
+            <p>
+                <strong>Нептун</strong> — восьма та найвіддаленіша від Сонця планета Сонячної системи. Його маса перевищує масу Землі у <strong>17,2</strong> рази
+                і є третьою серед планет Сонячної системи. За екваторіальним діаметром Нептун займає четверте місце, перевищуючи Землю у <strong>3,9</strong> раза.
+                Названа планета на честь римського бога морів — Нептуна.
+            </p>
+        </div>
+    </section>
+</main>
+    <footer>
+        <p>Телефонуйте сюди, якщо потрібна додаткова інформація</p>
+        <p>+380 67 390 44 85</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="Instagram">
+    </footer>
+</body>
+</html>
